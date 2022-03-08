@@ -1,5 +1,5 @@
 ---
-title: Home Page
+title: Welcome
 layout: layout.html
 eleventyNavigation:
     key: Home
@@ -9,4 +9,3 @@ eleventyNavigation:
 
 Welcome to my site!
 march 8 demo push test
-its break time Dan
